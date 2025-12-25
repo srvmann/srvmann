@@ -189,3 +189,8 @@ I'm someone who understands how **intelligent systems actually work** — from S
 <p align="center">
   <i>⭐ If you find my work interesting, feel free to star my repositories!</i>
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=srvmann&show_icons=true&locale=en&layout=compact" alt="srvmann" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srvmann&show_icons=true&locale=en" alt="srvmann" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srvmann&" alt="srvmann" /></p>
